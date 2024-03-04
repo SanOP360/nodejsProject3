@@ -1,9 +1,1 @@
-[
-    {
-        "id": "12345",
-        "title": "A Book",
-        "imageUrl": "http://www.labaczdesign.com/wp-content/uploads/2017/08/SelfPub_CoverBack.jpg",
-        "description": "This is an awesome book!",
-        "price": "19"
-    }
-]
+[{"id":"12345","title":"A Book","imageUrl":"http://www.labaczdesign.com/wp-content/uploads/2017/08/SelfPub_CoverBack.jpg","description":"This is an awesome book!","price":"19"},{"title":"New Book","imageUrl":"http://www.labaczdesign.com/wp-content/uploads/2017/08/SelfPub_CoverBack.jpg","description":"AN amazing book","price":"23","id":"0.6429405771520946"}]
