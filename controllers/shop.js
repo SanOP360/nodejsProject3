@@ -10,7 +10,7 @@ exports.getProducts = (req, res, next) => {
     });
   });
 };
-
+  
 exports.getProduct = (req, res, next) => {
   const prodId = req.params.productID;
   Product.findById(prodId, (product) => {
